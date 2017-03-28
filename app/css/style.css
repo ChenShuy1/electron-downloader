@@ -1,0 +1,19 @@
+*{
+    font-family: "Arial";
+    font-size: 15px;  
+}
+label{
+    display: block;
+    color: black;
+    font-weight: 600;
+}
+input{
+    display: inline;
+    margin-right: 5px;
+    width: 300px;
+    background-color: white;
+}
+#download-btn{
+    display: block;
+    margin-top: 5px;
+}
